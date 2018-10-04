@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Inventory</string>
+    <string name="user_profile">Profile</string>
+    <string name="Sign_up">Sign up</string>
+    <string name="forget_password">forget</string>
+    <string name="user_name">User Name</string>
+    <string name="user_email">User Email</string>
+    <string name="login">Log in</string>
+    <string name="forgot_password">forgot your Password ?</string>
+    <string name="sing_up">Sign up now</string>
+    <string name="Dont_have_account" tools:ignore="StringEscaping">Don't have an account ?</string>
+
+    <!--- user login -->
+    <string name="user_login">Log In</string>
+
+
+
+</resources>
